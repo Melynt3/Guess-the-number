@@ -69,14 +69,6 @@ document.querySelector('.check').addEventListener('click', () => {
 	if (score === 0) {
 		return
 	}
-
-
-
-	// else if (guess === 13) {
-	// 	document.querySelector("body").style.backgroundColor = 'green'
-	// }
-
-
 })
 
 document.querySelector('.again')
